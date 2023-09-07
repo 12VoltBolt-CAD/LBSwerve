@@ -1,0 +1,16 @@
+# Don't upload videos to git
+*.avi
+*.mkv
+*.mp4
+*.webm
+*.mov
+# Log file
+*.log
+# Temp files
+~$*
+# System files
+desktop.ini
+[Tt]humbs.db
+.DS_STORE
+# GrabCAD
+.grabcad/
